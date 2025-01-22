@@ -18,5 +18,5 @@ This project utilizes Google's MediaPipe to track surgical hand motion, extracti
   - `numpy`
 
 ## Installation
-1. repository: 
+1. repository: https://github.com/TahmidAnwar/Capstone-Project.git
    
