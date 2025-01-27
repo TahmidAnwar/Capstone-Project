@@ -1,4 +1,4 @@
-# Capstone-Project
+# Capstone_Project
 # Markerless Hand Tracking
 
 ## Description
