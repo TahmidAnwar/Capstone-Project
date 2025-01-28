@@ -1,9 +1,10 @@
-# Capstone_Project
-# Markerless Hand Tracking
+## Capstone_Project
+## Markerless Hand Motion Tracking for Quantification of Surgical Skills
 
 ## Description
-This project utilizes Google's MediaPipe to track surgical hand motion, extracting key points of the hand's movement in real-tim from recorded videos. 
-The code was provided to the capstone team by the medical students of Barrow Neurological Institute
+This project utilizes Google's MediaPipe to track surgical hand motion, extracting key points of the hand's movement in real-time from recorded videos. Moreover, the team is also tracking hand motion in a markerbased system called PhaseSpace and the markerless system will be validated against the markerbased. 
+The code was provided to the capstone team by the medical students of Barrow Neurological Institute. Its an ongoing project and the capstone team is currently working on refining another algorithm for markerless hand motion tracking in 3D. 
+
 ## Features
 - Tracks 21 key points on the hand, including fingertips and joints.
 - Outputs 2D coordinates of hand landmarks in pixels.
@@ -13,10 +14,8 @@ The code was provided to the capstone team by the medical students of Barrow Neu
 ## Requirements
 - Python
 - Required Python packages:
-  - `mediapipe`
-  - `opencv-python`
-  - `numpy`
+  - MediaPipe`
+  - Opencv-python
+  - Numpy
 
-## Installation
-1. repository: [https://github.com/TahmidAnwar/Capstone-Project.git](https://github.com/TahmidAnwar/Capstone-Project.git](https://github.com/TahmidAnwar/Capstone-Project.git)
-   
+## The code for markerless 2D tracking can be found in the master folder of this repository.
