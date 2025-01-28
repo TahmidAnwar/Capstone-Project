@@ -18,5 +18,5 @@ The code was provided to the capstone team by the medical students of Barrow Neu
   - `numpy`
 
 ## Installation
-1. repository: https://github.com/TahmidAnwar/Capstone-Project.git
+1. repository: https://github.com/TahmidAnwar/Capstone-Project.git](https://github.com/TahmidAnwar/Capstone-Project.git
    
