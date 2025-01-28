@@ -14,7 +14,7 @@ The code was provided to the capstone team by the medical students of Barrow Neu
 ## Requirements
 - Python
 - Required Python packages:
-  - MediaPipe`
+  - MediaPipe
   - Opencv-python
   - Numpy
 
