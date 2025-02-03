@@ -18,4 +18,4 @@ The code was provided to the capstone team by the medical students of Barrow Neu
   - Opencv-python
   - Numpy
 
-## The code for markerless 2D tracking can be found in the master folder of this repository.
+## The code for markerless 2D tracking can be found in the master branch of this repository.
